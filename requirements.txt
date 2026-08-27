@@ -1,0 +1,22 @@
+# Core ML and Data Science Libraries
+numpy>=1.26.0,<2.0.0
+pandas>=2.0.0,<3.0.0
+scikit-learn>=1.3.0,<2.0.0
+
+# Streamlit and Web Framework
+streamlit>=1.28.0,<2.0.0
+flask>=3.0.0,<4.0.0
+
+# MLflow and Model Management
+mlflow>=2.8.0,<3.0.0
+
+# HTTP Requests
+requests>=2.31.0,<3.0.0
+
+# Utilities
+click>=8.1.0,<9.0.0
+python-dotenv>=1.0.0,<2.0.0
+
+# Visualization and Analysis (optional for Streamlit Cloud)
+matplotlib>=3.7.0,<4.0.0
+seaborn>=0.12.0,<1.0.0
